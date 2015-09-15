@@ -34,15 +34,13 @@ class ComicBox {
 
 }
 
-public class FiveStagesOfProgrammingComic {
+public class Comic {
 
     int nrOfBoxes = 5;
     ComicBox[] comicBoxes = new ComicBox[5];
 
-    FiveStagesOfProgrammingComic(String[] titles, String[] texts, Image[] images) {
-        for (int i = 0; i < titles.length; i++) {
-            comicBoxes[i] = new ComicBox(titles[i], texts[i], images[i]);
-        }
+    Comic(String[] titles, String[] texts, Image[] images) {
+
     }
 
     void read() {
