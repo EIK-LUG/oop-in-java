@@ -1,11 +1,7 @@
-# oop-in-java
-
-This repository contains some practice exercises to accompany the lectures.
-
-First week:
+# Week 1
 
 You've been overloaded with too much new information, now try doing something and see if the pieces start falling into place.
-The main focus on the first week is on very basic object oriented programming design not the implementation details yet.
+The main focus on the first week is on basic language constructs and very basic object oriented programming design. Not the implementation details yet.
 
 If you want to practice the working details in addition to the PracticeSnippets then I suggest: [java introduction](https://www.hackerrank.com/domains/java/java-introduction)
 
@@ -13,7 +9,7 @@ For reference: [java quick guide](http://www.tutorialspoint.com/java/java_quick_
 
 Note: No need to try to do them all :) 
 
-### PractiseAbstract
+### PracticeAbstract
 
 Describing something abstract in nature. ex. A triangle:
 
@@ -26,7 +22,7 @@ Describing something abstract in nature. ex. A triangle:
 Either improve the triangle class or write another class to describe something abstract.
 ex. Other geometrical shapes, the weather, smell etc.
 
-### PractiseDescriptive
+### PracticeDescriptive
 
 Describe some image you choose. ex. A short comic.
 
