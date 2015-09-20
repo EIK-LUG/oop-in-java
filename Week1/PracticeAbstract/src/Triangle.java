@@ -18,7 +18,7 @@ public class Triangle {
     //Key value pairs: sideReference -> side length
     HashMap<sideReference, Integer> sideLengths;
 
-    //The constructor
+a    //The constructor
     Triangle(int sideSize1, int sideSize2, int sideSize3) {
         //Setup for creating an instance of this class
     }
