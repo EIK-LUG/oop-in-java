@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week2/CalculatorExample/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2/Inheritance/LivingOrganismExample/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2/Inheritance/VehicleExercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2/TriangleExample/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/out" />
     </content>
     <orderEntry type="inheritedJdk" />
