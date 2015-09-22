@@ -25,11 +25,11 @@ class EquilateralTriangle {
     }
 
     double calculatePerimeter() {
-        return sideLengths*3;
+        return this.sideLengths*3;
     }
 
     public boolean compareToOther(EquilateralTriangle other) {
-        return this.calculatePerimeter() == other.calculatePerimeter();
+        return this.sideLengths == other.sideLengths;
     }
 
 }
