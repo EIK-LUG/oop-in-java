@@ -20,11 +20,11 @@ class EquilateralTriangle {
         this.sideLengths = sideLengths;
     }
 
-    double calculateArea() {
+    public double calculateArea() {
         return (Math.sqrt(3) / 4) * Math.pow(this.sideLengths, 2);
     }
 
-    double calculatePerimeter() {
+    public double calculatePerimeter() {
         return this.sideLengths*3;
     }
 
